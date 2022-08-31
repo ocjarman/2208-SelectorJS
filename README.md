@@ -14,3 +14,4 @@ You should have Testem installed globally. *If not*: `npm install -g testem`.
 In addition to the test environment run by Jasmine, we've included a "playground" environment that you can use to test your `$` function/class manually (if you so choose - it is entirely optional).
 
 To access this playground, execute `npm run playground` from the command line, and then open http://localhost:8080/ in your browser.
+# Selector.js
